@@ -1,0 +1,14 @@
+PASS: Monitors detected: 1
+  Monitor 'WinDisc': 1024x768 at (0,0) [PRIMARY]
+PASS: Icons generated: active=(64, 64) inactive=(64, 64)
+PASS: Engine created, enabled=False
+PASS: Engine started (hooks installed)
+PASS: Engine enabled: True
+PASS: Window counts: {}
+PASS: Toggle off: enabled=False
+PASS: Toggle on: enabled=True
+PASS: Engine stopped cleanly
+PASS: Hotkey registration works
+PASS: TrayApp created, icons=(64, 64)
+
+=== ALL INTEGRATION TESTS COMPLETE ===
